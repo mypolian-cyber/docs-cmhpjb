@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-hcspk7.keitaro-tech-rtb.online/sitemap.xml
